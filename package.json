@@ -1,6 +1,6 @@
 {
   "name": "@m.ostapysko/my-first-tree-shakable-pkg",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is my first tree-shakable package ever published to npm; it implements react components based on MUI",
   "type": "module",
   "main": "lib/cjs/index.js",
